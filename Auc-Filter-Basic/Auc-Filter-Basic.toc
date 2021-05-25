@@ -1,0 +1,21 @@
+## Title: Auc:Filter:Basic
+## Notes: Allows filtering of Auctioneer data by some basic items, such as minimum quality, minimum item level, and ignored seller.
+##
+## Interface: 11306
+## LoadOnDemand: 0
+## Disabled: 0
+## Dependencies: Auc-Advanced
+## SavedVariables: AucAdvancedFilterBasic_IgnoreList
+##
+## Version: 1.13.6601 (SwimmingSeadragon)
+## Revision: $Id: Auc-Filter-Basic.toc 6601 2021-01-30 13:42:33Z none $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 80100
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+
+BasicFilter.xml
+BasicFilter.lua

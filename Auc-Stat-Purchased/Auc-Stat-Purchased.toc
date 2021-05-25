@@ -1,0 +1,20 @@
+## Title: Auc:Stat:Purchased Stats
+## Notes: Statistics extension for Auctioneer that assumes an item was bought out if the auction ends early.
+##
+## Interface: 11306
+## LoadOnDemand: 0
+## Disabled: 0
+## Dependencies: Auc-Advanced
+## SavedVariables: AucAdvancedStatPurchasedData
+##
+## Version: 1.13.6672 (SwimmingSeadragon)
+## Revision: $Id: Auc-Stat-Purchased.toc 6672 2021-01-30 13:42:33Z none $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 80100
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+
+StatPurchased.lua

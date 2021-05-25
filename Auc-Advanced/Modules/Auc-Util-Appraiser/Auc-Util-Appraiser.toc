@@ -1,0 +1,14 @@
+## Title: Auc:Util:Appraiser
+## Interface: 11306
+## Dependencies: Stubby, Auc-Advanced
+##
+## Version: 1.13.6647 (SwimmingSeadragon)
+## Revision: $Id: Auc-Util-Appraiser.toc 6647 2021-01-30 13:42:33Z none $
+## Author: Norganna's AddOns
+## X-Part-Of: Auctioneer
+## X-Category: Auction House
+## X-Max-Interface: 80100
+## X-URL: http://auctioneeraddon.com/
+## X-Feedback: http://forums.norganna.org
+##
+Embed.xml

@@ -1,0 +1,18 @@
+## Title: TipHelper |cff224477(lib)
+## Notes: An embeddable library that assists AddOns wishing to use the LibExtraTip tooltip library.
+##
+## Interface: 11306
+## LoadOnDemand: 0
+## Dependencies: LibExtraTip
+## OptionalDependencies: !nLog
+##
+## Version: 1.13.6580 (SwimmingSeadragon)
+## Revision: $Id: TipHelper.toc 6580 2021-01-30 13:42:33Z none $
+## Author: Norganna's AddOns
+## X-Part-Of: Libraries
+## X-Category: Library
+## X-Max-Interface: 80100
+## X-URL: http://zip.norganna.org/libs/TipHelper/
+## X-Feedback: http://forums.norganna.org
+##
+Load.xml

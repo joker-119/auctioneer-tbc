@@ -1,0 +1,17 @@
+## Title: Swatter |cff224477(lib)
+## Notes: Debugging tool for handling and displaying of error messages in a useful way.
+##
+## Interface: 11306
+## SavedVariables: SwatterData
+##
+## Version: 1.13.6652 (SwimmingSeadragon)
+## Revision: $Id: !Swatter.toc 6652 2021-01-30 13:42:33Z none $
+## Author: Norganna's AddOns
+## X-Part-Of: Libraries
+## X-Category: Library
+## X-Max-Interface: 80100
+## X-URL: http://zip.norganna.org/libs/!Swatter/
+## X-Feedback: http://forums.norganna.org
+##
+Support\Load.xml
+Swatter.lua
